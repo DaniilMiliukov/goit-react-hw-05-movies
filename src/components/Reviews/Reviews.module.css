@@ -1,8 +1,7 @@
 ul {
-  list-style: none; /* Убираем маркеры списка */
-  padding: 0; /* Убираем внутренние отступы */
+  list-style: none; 
+  padding: 0; 
 }
-
 .listItem {
   position: relative;
 }

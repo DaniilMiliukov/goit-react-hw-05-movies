@@ -13,6 +13,9 @@ const MovieInfo = ({ data }) => {
                 {original_title}
               </Link>
             </li>
+
+
+
           );
         })}
     </ul>
